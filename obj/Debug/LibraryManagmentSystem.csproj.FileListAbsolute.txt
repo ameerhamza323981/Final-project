@@ -1,0 +1,23 @@
+C:\Users\Ashir Javed\Desktop\Hospital Managment System\Hospital Managment System\bin\Hospital Managment System.dll.config
+C:\Users\Ashir Javed\Desktop\Hospital Managment System\Hospital Managment System\bin\Hospital Managment System.dll
+C:\Users\Ashir Javed\Desktop\Hospital Managment System\Hospital Managment System\bin\Hospital Managment System.pdb
+C:\Users\Ashir Javed\Desktop\Hospital Managment System\Hospital Managment System\obj\Debug\LibraryManagmentSystem.csprojResolveAssemblyReference.cache
+C:\Users\Ashir Javed\Desktop\Hospital Managment System\Hospital Managment System\obj\Debug\Hospital Managment System.dll
+C:\Users\Ashir Javed\Desktop\Hospital Managment System\Hospital Managment System\obj\Debug\Hospital Managment System.pdb
+C:\Users\hussain rajput\Desktop\Hospital Managment System\Hospital Managment System\bin\Hospital Managment System.dll
+C:\Users\hussain rajput\Desktop\Hospital Managment System\Hospital Managment System\bin\Hospital Managment System.pdb
+C:\Users\hussain rajput\Desktop\Hospital Managment System\Hospital Managment System\obj\Debug\LibraryManagmentSystem.csprojResolveAssemblyReference.cache
+C:\Users\hussain rajput\Desktop\Hospital Managment System\Hospital Managment System\obj\Debug\Hospital Managment System.dll
+C:\Users\hussain rajput\Desktop\Hospital Managment System\Hospital Managment System\obj\Debug\Hospital Managment System.pdb
+C:\Users\Ameer Hamza\Desktop\Hospital Managment System\Hospital Managment System\bin\Hospital Managment System.dll.config
+C:\Users\Ameer Hamza\Desktop\Hospital Managment System\Hospital Managment System\bin\Hospital Managment System.dll
+C:\Users\Ameer Hamza\Desktop\Hospital Managment System\Hospital Managment System\bin\Hospital Managment System.pdb
+C:\Users\Ameer Hamza\Desktop\Hospital Managment System\Hospital Managment System\obj\Debug\LibraryManagmentSystem.csprojResolveAssemblyReference.cache
+C:\Users\Ameer Hamza\Desktop\Hospital Managment System\Hospital Managment System\obj\Debug\Hospital Managment System.dll
+C:\Users\Ameer Hamza\Desktop\Hospital Managment System\Hospital Managment System\obj\Debug\Hospital Managment System.pdb
+D:\6th semester\SAD\Final Project\Hospital Managment System\Hospital Managment System\bin\Hospital Managment System.dll.config
+D:\6th semester\SAD\Final Project\Hospital Managment System\Hospital Managment System\bin\Hospital Managment System.dll
+D:\6th semester\SAD\Final Project\Hospital Managment System\Hospital Managment System\bin\Hospital Managment System.pdb
+D:\6th semester\SAD\Final Project\Hospital Managment System\Hospital Managment System\obj\Debug\LibraryManagmentSystem.csprojResolveAssemblyReference.cache
+D:\6th semester\SAD\Final Project\Hospital Managment System\Hospital Managment System\obj\Debug\Hospital Managment System.dll
+D:\6th semester\SAD\Final Project\Hospital Managment System\Hospital Managment System\obj\Debug\Hospital Managment System.pdb

@@ -1,0 +1,66 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="Hospital_Managment_System.Admin" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+     
+    <title>Book Managment System</title>
+   <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet"   />
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <style>
+        .navigation
+        {
+            padding-left:20px;
+            padding-right:40px;
+            width:120px;
+            margin:8px;
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    
+    
+    <form id="form1" runat="server">
+<div>
+    <div class="row">
+        <h1  class="text-center" style="  background-color:black; color:yellow;  padding:15px;">Admin Pannel</h1>
+    </div>
+</div> 
+ <div class="col-sm-2" >
+    <asp:HyperLink ID="HyperLink1" NavigateUrl="~/Inbox.aspx" runat="server" class="btn btn-default navigation" >Inbox</asp:HyperLink>
+    <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/SearchData.aspx" class="btn btn-default navigation" >Search</asp:HyperLink>
+    <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/BookRecord.aspx" class="btn btn-default navigation" >Book Record</asp:HyperLink>
+    <asp:HyperLink ID="HyperLink6" runat="server" NavigateUrl="~/Home.aspx" class="btn btn-default navigation">Logout</asp:HyperLink>
+   <div class="dropdown">
+</div>
+
+
+</div>
+
+<div class="col-sm-10">  
+<div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+</div>
+    
+ </div>
+    </form>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+</body>
+</html>
